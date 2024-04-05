@@ -29,3 +29,14 @@ Now enter into your [app](http://localhost) and you should a hello world page
 ### Part 2: Test each html files to see how good it renders in email clients
 - The clients that we except are: gmail, outlook (web), yahoo
 - We except and score above 60%
+
+## Disculpa que altere tu proyecto.
+### no logre subior la rama- dejo hasta ahi.
+no porque no haya podido. sinop que ya llevo una hora de retraso para irme al otro trabajo. pero si me das tiempo de trabajarlo en la noche, perfecto no te fallare, y si no, ya ni modo, ya fue. 
+
+!!! success "igual gracias"
+    igual gracias
+
+dejo el enlace del drive en donde subi mi poco avance
+
+    [drive-cristian](https://drive.google.com/file/d/1Lddwf7ZY02gJDbqJr7bpB2r6Z1uU4Lqh/view?usp=sharing)
